@@ -1,0 +1,87 @@
+.header,.footer{
+	color: #FFFFFF;
+	clear: both;
+}
+.header{
+background-color:#FFEB3B;
+height: 90px;
+	line-height: 80px;
+	width: 1430px;
+}
+.footer{
+	background-color: #D50000;
+	font-style: oblique;
+	font-size: 20px;
+	height: 120px;
+	line-height: 60px;
+	width: 1430px;
+}
+.container{
+	width: 1430px;
+	margin: 0 auto;
+	}
+	/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid white;
+  background-color: #64DD17;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: #76FF03;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.5s;
+  font-size: 25px;
+  font-style: oblique;
+  color: white;
+  text-shadow: 2px 2px 2px 2px gray;
+  width: 238px;
+  }
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #64DD17;
+}
+	.box{
+	width: 1430px;
+	height: 90px;
+	float: left;
+	margin: 0px;
+}
+
+.h2{
+			font-style: oblique;
+			text-align:center;
+			text-shadow: 2px 2px 2px 2px gray;
+			font-size: 40px;
+		}
+		/* Style the tab */
+.tab1 {
+  overflow: hidden;
+  border: 1px solid white;
+  background-color: #D8D8D8;
+}
+/* Style the buttons inside the tab */
+.tab1 button {
+  background-color: #2E2E2E;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.5s;
+  font-size: 25px;
+  font-style: oblique;
+  color: white;
+  text-shadow: 2px 2px 2px 2px gray;
+  width: 476px;
+  }
+  /* Change background color of buttons on hover */
+.tab1 button:hover {
+  background-color: #D8D8D8;
+}
